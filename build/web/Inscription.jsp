@@ -161,7 +161,7 @@
       <div class="input-container ic2">
         <input id="password" class="input" placeholder=" "type="text" name="password" value="" />
         <div class="cut"></div>
-        <label for="password" class="placeholder">Password</label>
+        <label for="password" class="placeholder">Mot de passe</label>
       </div>
       <div class="input-container ic2">
         <input id="date" class="input" placeholder=" "type="date" name="date" value="" />

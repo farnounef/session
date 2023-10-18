@@ -62,7 +62,7 @@ public final class auth_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("  background-color: #15172b;\n");
       out.write("  border-radius: 20px;\n");
       out.write("  box-sizing: border-box;\n");
-      out.write("  height: 500px;\n");
+      out.write("  height: 600px;\n");
       out.write("  padding: 20px;\n");
       out.write("  width: 320px;\n");
       out.write("}\n");

@@ -19,7 +19,7 @@
   background-color: #15172b;
   border-radius: 20px;
   box-sizing: border-box;
-  height: 500px;
+  height: 600px;
   padding: 20px;
   width: 320px;
 }
@@ -146,15 +146,15 @@
       <div class="input-container ic2">
         <input id="password" class="input" placeholder=" " type="password" name="password" value="" />
         <div class="cut"></div>
-        <label for="password" class="placeholder">password</label>
+        <label for="password" class="placeholder">mot de passe</label>
         
       </div>
       <br>
 
       <div class="message" style="color: #fff; font-size: 16px;">${msg}</div>
      
-      <button  class="submit" type="submit">submit</button>
-          <button  class="submit" type="button" onclick="window.location.href='Inscription.jsp'">create account</button>
+      <button  class="submit" type="submit">log in</button>
+          <button  class="submit" type="button" onclick="window.location.href='Inscription.jsp'">creer un compte</button>
           <button class="submit" type="button" onclick="window.location.href='motdepasseoublie.jsp'">Mot de passe oublié</button>
 
     </div>

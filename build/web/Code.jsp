@@ -141,7 +141,7 @@
       <div class="input-container ic1">
         <input id="verificationCode" class="input" type="text" placeholder=" " name="verificationCode" value="" />
         <div class="cut"></div>
-        <label for="verificationCode" class="placeholder">Email</label>
+        <label for="verificationCode" class="placeholder">Code</label>
       </div>
         <div class="message" style="color: #fff; font-size: 16px;">${msg}</div>
       
