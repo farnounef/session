@@ -1,8 +1,4 @@
-<%-- 
-    Document   : auth
-    Created on : 10 oct. 2023, 12:10:57
-    Author     : Lachgar
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
